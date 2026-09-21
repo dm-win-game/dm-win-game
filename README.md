@@ -6,7 +6,9 @@
 ![Updated](https://img.shields.io/badge/updated-Aug%202026-blue)
 ![Guide](https://img.shields.io/badge/type-user%20guide-orange)
 
-<img src="[https://camo.githubusercontent.com/24f63c86ba146b260b34c36b762bdc11aa3ec64e05290892af286a5d7ff1eebf/68747470733a2f2f692e696d61676575706c6f61642e6170702f37666432646533363265643130666137353539392e6a706567](https://dmfirst0.com/#/register?invitationCode=93473213030)" width="45%" />
+<a href="https://dmfirst0.com/#/register?invitationCode=93473213030" target="_blank">
+<img src="https://camo.githubusercontent.com/24f63c86ba146b260b34c36b762bdc11aa3ec64e05290892af286a5d7ff1eebf/68747470733a2f2f692e696d61676575706c6f61642e6170702f37666432646533363265643130666137353539392e6a706567" width="45%" />
+</a>
 
 **Complete step-by-step guide for DM Win login, registration, app access aur account safety.**
 
@@ -29,11 +31,11 @@
 
 ---
 
-## 📌 About
+##  About
 
 Yeh repository DM Win platform ke liye ek community-maintained reference guide hai — login process, registration steps, app installation, aur account safety cover karta hai. Documentation format follow karta hai taaki step-by-step easily follow ho sake.
 
-> ⚠️ Availability, features, aur terms platform ke hisaab se change ho sakte hain. Final action lene se pehle official/verified source cross-check karein.
+> ️ Availability, features, aur terms platform ke hisaab se change ho sakte hain. Final action lene se pehle official/verified source cross-check karein.
 
 ---
 
@@ -169,7 +171,7 @@ Support se contact karne se pehle:
 
 > 👉 Verified access ke liye niche diye gaye link ka use karein — third-party mirror links avoid karein.
 >
-> **[Visit Official Site →](#)**
+> **[Visit Official Site →](https://dmfirst0.com/#/register?invitationCode=93473213030)**
 
 ---
 
@@ -179,7 +181,7 @@ Sirf utna paisa use karein jo afford kar sakte ho. Losses chase na karein. Regul
 
 ---
 
-## ❓ FAQ
+##  FAQ
 
 <details>
 <summary><strong>DM Win login nahi ho raha, kya karein?</strong></summary>
