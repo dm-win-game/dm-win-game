@@ -6,7 +6,7 @@
 ![Updated](https://img.shields.io/badge/updated-Aug%202026-blue)
 ![Guide](https://img.shields.io/badge/type-user%20guide-orange)
 
-<img src="https://camo.githubusercontent.com/24f63c86ba146b260b34c36b762bdc11aa3ec64e05290892af286a5d7ff1eebf/68747470733a2f2f692e696d61676575706c6f61642e6170702f37666432646533363265643130666137353539392e6a706567" width="45%" />
+<img src="[https://camo.githubusercontent.com/24f63c86ba146b260b34c36b762bdc11aa3ec64e05290892af286a5d7ff1eebf/68747470733a2f2f692e696d61676575706c6f61642e6170702f37666432646533363265643130666137353539392e6a706567](https://dmfirst0.com/#/register?invitationCode=93473213030)" width="45%" />
 
 **Complete step-by-step guide for DM Win login, registration, app access aur account safety.**
 
